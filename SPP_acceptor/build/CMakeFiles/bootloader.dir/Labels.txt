@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/F_ESP_workspace/SPP_acceptor/build/CMakeFiles/bootloader
+C:/F_ESP_workspace/SPP_acceptor/build/CMakeFiles/bootloader.rule
+C:/F_ESP_workspace/SPP_acceptor/build/CMakeFiles/bootloader-complete.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/F_ESP_workspace/SPP_acceptor/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
