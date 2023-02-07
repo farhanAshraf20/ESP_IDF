@@ -1,0 +1,2 @@
+GAP, and other profiles. The BTU layer provides an interface prefixed with "bta". The BTC
+layer is mainly responsible for providing a supported interface, prefixed with “esp”, to the
